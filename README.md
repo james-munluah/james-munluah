@@ -1,11 +1,6 @@
-## James Munluah
-
-I build and operate production systems with coding agents, and I keep the
-receipts on what actually works.
-
 For about two years I have run a four-line operations platform for a small
 business group in India - laundry, courier, a diner, property - as a single
-developer working with an agent as the primary implementer. Real money moves
+developer with a coding agent as the primary implementer. Real money moves
 through it daily. Roughly 181,000 lines of TypeScript, 274 database migrations,
 560 test files, ~2,600 commits.
 
