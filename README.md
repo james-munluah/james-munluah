@@ -1,8 +1,8 @@
-For about two years I have run a four-line operations platform for a small
-business group in India - laundry, courier, a diner, property - as a single
-developer with a coding agent as the primary implementer. Real money moves
-through it daily. Roughly 181,000 lines of TypeScript, 274 database migrations,
-560 test files, ~2,600 commits.
+Since April 2026 I have built and run a four-line operations platform for a
+small business group in India - laundry, courier, a diner, property - as a
+single developer with a coding agent as the primary implementer. Real money
+moves through it daily. Roughly 181,000 lines of TypeScript, 274 database
+migrations, 560 test files and ~2,600 commits, across 131 active days.
 
 The thing that made it survivable was not prompt engineering. It was learning
 that **an agent's instructions are a hint, and only a mechanism is a mechanism.**
